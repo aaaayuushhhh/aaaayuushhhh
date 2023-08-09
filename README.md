@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at Bennett University.<br>Loves python.<br>Flexing my management skills all the time.<br>Dont hit me up with doubts cuz i might ask another one.<br>Currently working on a secret idea.
+Currently a student at Bennett University.<br>Loves python.<br>Flexing my management skills all the time. <br>Currently working on a secret idea.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aaaayuushhhh&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
